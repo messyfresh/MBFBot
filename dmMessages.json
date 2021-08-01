@@ -1,0 +1,44 @@
+{
+    "messages": {
+        "1": "Hi Friend, I've missed you!",
+        "2": "What are you up to friend?",
+        "3": "Hey friend, do you want to play Fortnite?",
+        "4": "You got this!",
+        "5": "Sending you good thoughts!",
+        "6": "I hope you believe in yourself as much as I believe in you!"
+    },
+    "jokes": {
+        "1": {
+            "1": "Why does a chicken coop have two doors?",
+            "2": "If it had four it would be a chicken sedan!"
+        },
+        "2": {
+            "1": "Why was 6 afraid of 7?",
+            "2": "Because 7 8 9!"
+        },
+        "3": {
+            "1": "What did 0 say to 8?",
+            "2": "Nice belt!"
+        },
+        "4": {
+            "1": "How do you find Will Smith in the snow?",
+            "2": "Look for the fresh prints!"
+        },
+        "5": {
+            "1": "How does the Moon cut it's hair?",
+            "2": "Eclipse it!"
+        },
+        "6": {
+            "1": "What is Matthew McConaughey's favorite bread?",
+            "2": "All Rye, All Rye, All Rye!"
+        },
+        "7": {
+            "1": "Which laundry detergent does the little mermaid use?",
+            "2": "Tide!"
+        },
+        "8": {
+            "1": "Why do bee's have sticky hair?",
+            "2": "Because they use a honey comb!"
+        }
+    }
+}
