@@ -9,7 +9,7 @@ const client = new Discord.Client()
 const msgDb = require("./dmMessages.json")
 
 // Set DM Interval
-dmInterval = 5000
+dmInterval = 30000
 
 let dmArray = []
 
@@ -21,6 +21,7 @@ client.once('ready', () => {
 })
 
 // Check messages
+// TODO Add admin check to bot message parse
 client.on('message', message => {
 
     // Split message content into array
